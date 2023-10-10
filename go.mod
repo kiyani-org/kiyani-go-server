@@ -1,4 +1,4 @@
-module github.com/abcxyz/abc/t/rest_server
+module github.com/kiyani-org/kiyani-go-server
 
 go 1.21
 
